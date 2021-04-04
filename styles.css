@@ -1,0 +1,156 @@
+header {
+    margin-bottom: 35px;
+}
+
+.container {
+    border: 3px solid #1C6C8A;
+    max-width: 99%;
+
+}
+
+nav {
+    display: inline;
+    float: right;
+    width: 30%;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.primary-nav li {
+    display: inline-block;
+    padding: 6px;
+    margin: 20px 2px;
+    border: 2px solid #D69856;
+    border-radius: 10px;
+    font-family: Monda, "serrif";
+    font-size: 18px;
+}
+
+.primary-nav li:hover {
+    background-color: #1C6C8A;
+    color: #ffffff;
+
+}
+
+
+h1 {
+    width: 30%;
+    margin-left: 60px;
+    font-family: "Julius Sans One", "sans serrif";
+    font-size: 48px;
+    display: inline-block;
+}
+
+h2 {
+    font-family: Monda, "sans serrif";
+    font-size: 24px;
+}
+
+p {
+    font-family: Monda, "sans serrif";
+    font-size: 18px;
+}
+
+.text-styling {
+    border: 2px solid #1C6C8A;
+    width: 50%;
+    margin: 10px;
+    padding: 15px;
+
+}
+
+.text-styling h1 {
+    margin: 0;
+    width: 70%;
+
+}
+
+.typography {
+    border: 2px solid #1C6C8A;
+    width: 50%;
+    margin: 10px;
+    padding: 15px;
+
+}
+
+.julius-type {
+    font-family: "Julius Sans One", "sans serrif";
+    font-size: 18px;
+}
+
+.lrg-julius-type {
+    font-family: "Julius Sans One", "sans serrif";
+    font-size: 24px;
+}
+
+.monda-type {
+    font-family: Monda, "serrif";
+    font-size: 18px;
+}
+
+.lrg-monda-type {
+    font-family: Monda, "serrif";
+    font-size: 24px;
+}
+
+.color-container {
+    width: 100%;
+
+}
+
+.color-boxes {
+    border: 2px solid #1C6C8A;
+    width: 50%;
+    margin: 10px;
+    padding: 15px;
+}
+
+.curry-brown {
+
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: #8A5B29;
+    text-align: center;
+    color: #ffffff;
+}
+
+.light-tan {
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: #FFC180;
+    text-align: center;
+
+
+}
+
+.warm-tan {
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: #D69856;
+    text-align: center;
+}
+
+.med-ocean-blue {
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: #1C6C8A;
+    margin-top: 20px;
+    text-align: center;
+    color: beige;
+}
+
+.sky-blue {
+    width: 30%;
+    display: inline-block;
+    margin-left: 20px;
+    background-color: #56B4D6;
+    text-align: center;
+}
